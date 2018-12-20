@@ -48,7 +48,7 @@ INTERFACE DESIGN
 ![Screenshot 4](img/Menu.png)
 ![Screenshot 5](img/Reportar.png)
 ![Screenshot 6](img/Itinerário%20-%20Busca.png)
-![Screenshot 7](img/Itinerário%20-%20Busca.png)
+![Screenshot 7](img/Itinerário%20-%20Linhas.png)
 ![Screenshot 8](img/Itinerário%20-%20Detalhes%20da%20linha.png)
 
 MORE INFO
