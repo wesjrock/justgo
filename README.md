@@ -1,4 +1,4 @@
-# Justgo
+# JustGo
 
 ![Screenshot 1](img/logo-justgo.png)
 
