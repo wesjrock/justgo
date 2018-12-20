@@ -1,6 +1,6 @@
 # JustGo
 
-![Screenshot 1](img/logo-justgo.png)
+![Screenshot 1](img/logo-justgo-2.png)
 
 OVERVIEW
 --------------------------------------------------
