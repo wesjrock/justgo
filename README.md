@@ -44,12 +44,12 @@ In the itinerary screen, if the user enters the destination instead of source, t
 INTERFACE DESIGN
 --------------------------------------------------
 ![Screenshot 2](img/Tela%20Inicial.png)
-![Screenshot 3](img/Tela Inicial - Primeiro Acesso.png)
+![Screenshot 3](img/Tela%20Inicial%20-%20Primeiro%20Acesso.png)
 ![Screenshot 4](img/Menu.png)
 ![Screenshot 5](img/Reportar.png)
-![Screenshot 6](img/Itinerário - Busca.png)
-![Screenshot 7](img/Itinerário - Linhas.png)
-![Screenshot 8](img/Itinerário - Detalhes da linha.png)
+![Screenshot 6](img/Itinerário%20-%20Busca.png)
+![Screenshot 7](img/Itinerário%20-%20Busca.png)
+![Screenshot 8](img/Itinerário%20-%20Detalhes%20da%20linha.png)
 
 MORE INFO
 --------------------------------------------------
