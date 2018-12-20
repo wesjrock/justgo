@@ -43,7 +43,7 @@ In the itinerary screen, if the user enters the destination instead of source, t
 
 INTERFACE DESIGN
 --------------------------------------------------
-![Screenshot 2](img/Tela\ Inicial.png)
+![Screenshot 2](justgo/img/Tela Inicial.png)
 ![Screenshot 3](img/Tela Inicial - Primeiro Acesso.png)
 ![Screenshot 4](img/Menu.png)
 ![Screenshot 5](img/Reportar.png)
