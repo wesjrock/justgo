@@ -53,5 +53,5 @@ INTERFACE DESIGN
 
 MORE INFO
 --------------------------------------------------
-
+* The JustGo logo was done by Robson Pessoa which also contributed to the app's idea.
 * What are Gestalt Principles? <https://en.wikipedia.org/wiki/Principles_of_grouping>
