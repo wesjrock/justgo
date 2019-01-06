@@ -4,7 +4,7 @@
 
 OVERVIEW
 --------------------------------------------------
-This is an UX-Design project of a mobile app called Just Go for the [Human Computer Interaction] course. The purpose of this project was to study Gestalt principles through a design of a mobile application.  It was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
+This is an UX-Design project of a mobile app called Just Go for the [Human Computer Interaction] course. The purpose of this project was to study Gestalt principles through the design of a mobile application.  It was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
 
 The purpose of the app is to make people's lives easier when they need to catch a bus.
 Similarly to other apps, with JustGo the user has two main roles:
